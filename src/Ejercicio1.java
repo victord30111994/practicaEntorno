@@ -12,7 +12,7 @@ public class Ejercicio1 {
 //	comentario para commit.
 	public static void main(String[] args) {
 		// Variables
-		int edad;
+		int edad=17;
 		
 		//Inicio
 		System.out.println("Introduce la edad, máximo " + EDAD_MAXIMA);
